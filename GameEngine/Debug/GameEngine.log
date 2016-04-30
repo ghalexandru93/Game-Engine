@@ -1,0 +1,17 @@
+﻿  Source.cpp
+  Game.cpp
+  Texture.cpp
+  System.cpp
+  Sound.cpp
+  Player.cpp
+  Menu.cpp
+  Ground.cpp
+  GameScene.cpp
+  Box.cpp
+  Font.cpp
+  Entity.cpp
+f:\concept\onedrive-2016-04-11(1)\gameengine\entity.cpp(67): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+f:\concept\onedrive-2016-04-11(1)\gameengine\entity.cpp(81): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  Background.cpp
+  Generating Code...
+  GameEngine.vcxproj -> F:\Concept\OneDrive-2016-04-11(1)\Debug\GameEngine.exe

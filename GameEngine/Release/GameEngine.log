@@ -1,0 +1,19 @@
+﻿  Background.cpp
+  Entity.cpp
+Entity.cpp(67): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+Entity.cpp(81): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  Font.cpp
+  Box.cpp
+  GameScene.cpp
+  Ground.cpp
+  Menu.cpp
+  Player.cpp
+  Sound.cpp
+  System.cpp
+  Texture.cpp
+  Game.cpp
+  Source.cpp
+  Generating code
+  All 1550 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameEngine.vcxproj -> F:\Concept\OneDrive-2016-04-11(1)\Release\GameEngine.exe

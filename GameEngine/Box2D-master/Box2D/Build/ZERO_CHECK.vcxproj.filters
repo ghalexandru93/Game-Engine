@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Myriad\SkyDrive\New folder\Box2D-master\Box2D\Build\CMakeFiles\eb348798c69e20a3d85d40c167d194a3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7D0CA25B-4C53-4B96-8F13-A4706EFB7AF4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

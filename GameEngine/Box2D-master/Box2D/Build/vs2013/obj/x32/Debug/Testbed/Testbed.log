@@ -1,0 +1,29 @@
+﻿Build started 7/18/2015 12:32:27 PM.
+     1>Project "F:\Download\Box2D-master\Box2D\Build\vs2013\Testbed.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\.. /Zi /nologo /W3 /WX- /Od /Oy- /D GLEW_STATIC /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"obj\x32\Debug\Testbed\\" /Fd"bin\x32\Debug\Testbed.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Testbed\Framework\DebugDraw.cpp ..\..\Testbed\Framework\imgui.cpp ..\..\Testbed\Framework\Main.cpp ..\..\Testbed\Framework\RenderGL3.cpp ..\..\Testbed\Framework\Test.cpp ..\..\Testbed\Tests\TestEntries.cpp
+         TestEntries.cpp
+         Test.cpp
+         RenderGL3.cpp
+         Main.cpp
+         imgui.cpp
+         DebugDraw.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"bin\x32\Debug\Testbed.exe" /INCREMENTAL /NOLOGO glu32.lib opengl32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"bin\x32\Debug\Testbed.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"bin\x32\Debug\Testbed.lib" /MACHINE:X86 obj\x32\Debug\Testbed\DebugDraw.obj
+         obj\x32\Debug\Testbed\imgui.obj
+         obj\x32\Debug\Testbed\Main.obj
+         obj\x32\Debug\Testbed\RenderGL3.obj
+         obj\x32\Debug\Testbed\Test.obj
+         obj\x32\Debug\Testbed\TestEntries.obj
+         "F:\Download\Box2D-master\Box2D\Build\vs2013\bin\x32\Debug\Box2D.lib"
+         "F:\Download\Box2D-master\Box2D\Build\vs2013\bin\x32\Debug\glew.lib"
+         "F:\Download\Box2D-master\Box2D\Build\vs2013\bin\x32\Debug\glfw.lib"
+     1>glfw.lib(init.obj) : error LNK2019: unresolved external symbol __imp____stdio_common_vsprintf referenced in function _vsnprintf
+     1>glfw.lib(context.obj) : error LNK2019: unresolved external symbol __imp____stdio_common_vsscanf referenced in function __vsscanf_l
+     1>bin\x32\Debug\Testbed.exe : fatal error LNK1120: 2 unresolved externals
+     1>Done Building Project "F:\Download\Box2D-master\Box2D\Build\vs2013\Testbed.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.04

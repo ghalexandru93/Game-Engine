@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Myriad\SkyDrive\New folder\Box2D-master\Box2D\glew\glew.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Myriad\SkyDrive\New folder\Box2D-master\Box2D\glew\glew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Myriad\SkyDrive\New folder\Box2D-master\Box2D\glew\glxew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Myriad\SkyDrive\New folder\Box2D-master\Box2D\glew\wglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Myriad\SkyDrive\New folder\Box2D-master\Box2D\glew\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{345236B2-DCD6-4B18-8200-51F10076F188}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A1322F54-EBB3-41BD-81CB-A28BC32FE3A2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
